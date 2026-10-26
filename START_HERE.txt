@@ -1,32 +1,9 @@
-WEBSITE SHOWROOM — OFFLINE CLIENT DEMOS
-====================================
+WEBSITE SHOWROOM WITH COSTS
 
-IMPORTANT: DO NOT OPEN THE HTML FILE INSIDE THE ZIP PREVIEW.
+1. Extract the full ZIP file.
+2. Open index.html in Chrome/Edge (do not move this file away from the other files).
+3. Choose any of the 10 designs.
+4. On each design page scroll to the bottom to compare simple vs database hosting costs.
+5. Open hosting-costs.html for a plain-English third-party running cost breakdown.
 
-STEP 1: Right-click website_showroom_FIXED.zip, then choose Extract All.
-STEP 2: Open the extracted website_showroom_FIXED folder.
-STEP 3: Double-click index.html (it opens in Chrome or Edge).
-STEP 4: Click 'Open full-page demo' under any of the 10 styles.
-STEP 5: Click 'All 10 designs' to go back; use 'Hosting explained' for costs.
-
-All files must STAY IN THIS FOLDER TOGETHER. Do not move index.html
-out by itself: the gallery links to the other local .html files.
-
-No internet, hosting, paid account, SQL database or domain required.
-Forms/buttons in these demonstrations are conceptual and do not store data.
-All sample business content is fictional. Running costs are rough planning
-estimates in SGD, not fees charged by the website developer.
-
-FILES
-index.html          - homepage / navigation gallery
-01-prism.html       - colourful corporate
-02-obsidian.html    - dark software
-03-pure.html        - premium minimalist
-04-canvas.html      - friendly resource hub
-05-atelier.html     - luxury editorial
-06-haven.html       - bookings and listings
-07-mono.html        - monochrome developer design
-08-playbook.html    - bold creative
-09-motion.html      - interactive gradients
-10-clarity.html     - accessible service portal
-hosting-costs.html - plain-English running cost comparison
+POC: no hosting fee required. All figures are illustrative SGD budgets, not developer fees.
